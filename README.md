@@ -1,4 +1,4 @@
-# telegram_langflow_bot
+# telegram_langflow_bot + Streamlit frontend
 AI bot powered by Langflow, Streamlit frontend
 # AI Chat Assistant with Streamlit Frontend
 
