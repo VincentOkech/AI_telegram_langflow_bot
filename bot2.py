@@ -24,10 +24,10 @@ ASKING = 0
 
 # Langflow Configuration
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "979f2f1f-2249-4fdbdd359621"
+LANGFLOW_ID ="-"
 ENDPOINT = "Customer"  # The endpoint name of the flow
-APPLICATION_TOKEN = "AstraCS:BoUWqZqQt:4d34b7f7550a12e68e97491e838776adb77c2e9504e219dac3da5c899bca80b4"
-TELEGRAM_TOKEN = "7867905932:AAFAGA-p-AprhhIfJSjZ548"
+APPLICATION_TOKEN = "-"
+TELEGRAM_TOKEN = "7867905932"
 
 # Default tweaks from your API configuration
 TWEAKS = {
