@@ -24,8 +24,7 @@ ASKING = 0
 MAX_MESSAGE_LENGTH = 4096
 
 # Langflow Configuration
-BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "979f2f1f-2249-4fdb-b53d-4d0edd359621"
+BASE_API_URL = "1"
 ENDPOINT = "Customer"
 APPLICATION_TOKEN = "AstraCS"
 TELEGRAM_TOKEN = "7867905932:"
